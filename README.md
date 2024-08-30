@@ -8,4 +8,4 @@ i know\
 \- misc: html, css, tailwind, git, react native
 
 
-_**im constantly learning and evolving**_.
+constantly learning and evolving.
