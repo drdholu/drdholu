@@ -1,8 +1,7 @@
-hi, im paras & i code sometimes
-
-i know\
-\- c, c++, java, javacript, typescript _(learning)_\
-\- mongodb, sql _(learning)_, firebase _(learning)_, prisma _(learning)_\
-\- reactjs, nextjs _(learning)_\
-\- nodejs, expressjs, honojs _(learning)_\
-\- misc: html, css, tailwind, git, react native
+hi, im paras & i code sometimes 👋\
+i know,\
+\- ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) *(learning)*\
+\- ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=white) *(learning)* ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white) *(learning)* ![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white) *(learning)*\
+\- ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) *(learning)*\
+\- ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Hono.js](https://img.shields.io/badge/Hono.js-000000?style=flat-square&logoColor=white) *(learning)*\
+\- ![HTML](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white)
