@@ -1,10 +1,8 @@
-hi
+hi, i code sometimes
 
-i code sometimes
+i know\
+\- c, c++, java, javacript, typescript _(learning)_\
+\- react, next _(learning)_\
+\- mongodb, sql _(learning)_, firebase _(learning)_
 
-i know
-
-- c, c++, java
-- mern
-
-always learning and evolving.
+constantly learning and evolving.
