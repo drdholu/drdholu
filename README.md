@@ -1,4 +1,4 @@
-hi, i code sometimes
+hi, im paras & i code sometimes
 
 i know\
 \- c, c++, java, javacript, typescript _(learning)_\
@@ -6,6 +6,3 @@ i know\
 \- reactjs, nextjs _(learning)_\
 \- nodejs, expressjs, honojs _(learning)_\
 \- misc: html, css, tailwind, git, react native
-
-
-constantly learning and evolving.
