@@ -15,6 +15,6 @@ i know these things,\
 
 ---
 
-\- wip: work in progress
-\- abandoned: projects that i've stopped working on
+\- _wip_: work in progress\
+\- _abandoned_: projects that i've stopped working on\
 \- the rest: projects that are done.
