@@ -2,7 +2,7 @@ hi, im **_paras_** & i code sometimes.
 
 ---
 \- based in pune\
-\- third yr cse student at coep\
+\- fourth yr cse student at coep\
 \- avid football fan and an intermeddiate keyboard player
 
 ---
